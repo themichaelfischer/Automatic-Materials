@@ -1,5 +1,9 @@
 # Automatic-Materials
 
+![automatic_mat_gif_1](https://github.com/themichaelfischer/Automatic-Materials/assets/79065779/81d84748-2cfc-421f-81c0-bbf12d65134a)
+
+![automatic_mat_gif_2](https://github.com/themichaelfischer/Automatic-Materials/assets/79065779/564fca99-fc3d-4e00-9c2f-e06ef5a76d31)
+
 Connecting the albedo, height, roughness, normal, etc.. images into materials is a time consuming process.
 
 Automatic materials automates this process for people.
